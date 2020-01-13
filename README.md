@@ -1,0 +1,1 @@
+# wpgraphql-yoast-seo
